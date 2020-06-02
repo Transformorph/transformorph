@@ -1,0 +1,8 @@
+.DS_Store
+output/
+prayin/
+data/
+.ipynb_checkpoints/
+results/
+venv/
+__pycache__/
